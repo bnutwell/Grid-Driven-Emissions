@@ -1,6 +1,9 @@
 # Grid-Driven-Emissions
  Rshiny dashboard for EV emissions based on local power grid
 
+A live version of this dashboard is available at:
+https://bnutwell.shinyapps.io/Grid_Driven_Vehicle_Emissions/
+
 This tool helps consumers visualize the direct and indirect emissions of various 2022 model vehicles.
 For Internal Combustion Engine (ICE) vehicles, emissions are calculated based on fuel economy and US emissions standards
 For Electric Vehicles (EVs), emissions are calculated based on the required kWh of driving energy, and the mix of power sources in the local power grid.
